@@ -1,6 +1,7 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Corinne J. Elle Atangane
+subtitle: Every action taken in support of this cause brings us closer to a more
+  equitable and sustainable future.
 image: img/corinne1.png
 blurb:
   heading: Who Am I ?
