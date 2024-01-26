@@ -25,7 +25,7 @@ intro:
 
     6. ⁠Pressure Governments officials to advocate for policies that support the protection of African resources. This could include pushing for legislation that holds companies accountable for their actions, or supporting international efforts to address resource exploitation in Africa.
 
-    7. ⁠Support Local Communities in Africa that are affected by resource exploitation. This could involve supporting organisations that work directly with these communities and their wellbeing on a global scale.
+    7. ⁠Support Local Communities in Africa that are affected by resource exploitation. This could involve supporting organisations that work directly with these communities and their well-being on a global scale.
 
     8. ⁠Engage in Responsible Consumerism: Be mindful of the products you purchase and their ties to African resources. Look for products that are certified as ethically sourced and support sustainable practices.
 
