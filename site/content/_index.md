@@ -3,11 +3,11 @@ title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
 image: img/corinne1.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Who Am I ?
+  text: "Name: Corinne J. Elle Atangane - Country of Origin: Cameroon - Country of
+    present Residence: United Kingdom - Occupation: Lawyer - Organisational
+    Affiliations: HCCE-HCCA Global Leaders Cameroonian, Diaspora, African
+    Revival, Supporting various small community groups in Cameroon."
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
